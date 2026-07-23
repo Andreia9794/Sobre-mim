@@ -80,7 +80,7 @@
   />
   <img 
     alt="C sharp" 
-    title="C#"
+    title="C sharp"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C sharp/C sharp-original.svg"
