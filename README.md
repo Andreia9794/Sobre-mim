@@ -71,13 +71,12 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
   />
-  />
   <img 
     alt="Python" 
     title="Python"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
 </div>
 
