@@ -98,6 +98,27 @@
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+  />
+    <img 
+    alt="HTML5" 
+    title="HTML5"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
+    <img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+    <img 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 </div>
 
 ##
