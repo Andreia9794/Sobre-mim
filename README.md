@@ -78,6 +78,13 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
+  <img 
+    alt="C" 
+    title="C"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg"
+  />
 </div>
 
 ##
