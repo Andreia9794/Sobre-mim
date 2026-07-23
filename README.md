@@ -90,7 +90,7 @@
     title="C#"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
   />
 </div>
 
