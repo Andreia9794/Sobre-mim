@@ -79,11 +79,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
   <img 
-    alt="C#" 
+    alt="C-Sharp" 
     title="C#"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C-Sharp/C-Sharp-original.svg"
   />
 </div>
 
