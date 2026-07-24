@@ -8,19 +8,6 @@
 💻 Estudante de ADS na FATEC <br>
 </div>
 
-
-##
-<div align="center">  
-  <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=Andreia9794&show_icons=true&include_all_commits=true&hide=stars&&hide_border=true" />
-
-  <img width="40%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreia9794&layout=compact&&hide_border=true" />
-</div>
-
-
-##
-
 <div align="center">
   <img 
     alt="Java" 
